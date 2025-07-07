@@ -1090,4 +1090,25 @@ border: #F1F2F3;
 .list h2:hover{
     color: #E69C00;
 }
-
+.a{
+    color: white;
+    text-decoration: none;
+}
+.a:hover{
+    color: #E69C00;
+}
+.nav3 i:hover{
+    color: #E69C00;
+}
+.n21 i:hover{
+     color: #E69C00;
+}
+.n22 i:hover{
+     color: #E69C00;
+}
+.n23 i:hover{
+     color: #E69C00;
+}
+.n24 i:hover{
+     color: #E69C00;
+}
